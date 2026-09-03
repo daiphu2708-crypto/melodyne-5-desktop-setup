@@ -1,0 +1,7 @@
+# Do not edit manually
+src/**/*.ts linguist-detectable
+src/** linguist-detectable
+* text=auto
+public/* linguist-vendored
+public/** linguist-vendored
+*.jpg binary
